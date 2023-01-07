@@ -1,0 +1,15 @@
+
+
+COMO AUTOMATIZAR HACKING -> WEB
+
+
+-> Automação para FFUF + SecLists
+
+
+-> Shell Script + xterm + httprobe
+
+
+
+
+
+
